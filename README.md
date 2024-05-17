@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahim12365&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahim12365" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahim12365" alt="ibrahim12365" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 - 🔭 I’m currently working on **Voltwise Solutions**
 
 - 🌱 I’m currently learning **ReactJs EXpressJS MongoDB**
